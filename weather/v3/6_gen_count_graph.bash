@@ -1,0 +1,2 @@
+    #!/bin/bash
+	/usr/lib/jvm/java-1.11.0-openjdk-amd64/bin/java -javaagent:/home/ishadi/Desktop/ideaIC-2021.1.1/idea-IC-211.7142.45/lib/idea_rt.jar=42899:/home/ishadi/Desktop/ideaIC-2021.1.1/idea-IC-211.7142.45/bin -Dfile.encoding=UTF-8 -classpath /home/ishadi/Documents/AndroidCFI/LogParser/target/classes:/home/ishadi/.m2/repository/org/codehaus/jtstand/jtstand-common/1.5.2/jtstand-common-1.5.2.jar:/home/ishadi/.m2/repository/org/jfree/jfreechart/1.5.0/jfreechart-1.5.0.jar CountBasedParser $1
